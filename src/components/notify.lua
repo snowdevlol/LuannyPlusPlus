@@ -1,4 +1,4 @@
--- Sistema de notificações.
+-- random notif lol
 local TweenService = game:GetService("TweenService")
 
 return function(Ctx)
